@@ -1,2 +1,2 @@
 # Jaya_Projects
-projects to show my skills 
+COde Basics Resume Challenge #8
